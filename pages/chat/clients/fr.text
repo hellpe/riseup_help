@@ -31,6 +31,7 @@ h2. Autres clients
 table(table table-striped).
 |_. Client |_. OS supportés |_. OTR? |_. OMEMO? |_. Jingle? |_. Proxy? |_. SSL/TLS? |_. Tor? |_. Commentaires |
 | [[Adium]] | macOS | *Oui* | *Oui* (Plugin) | Non | *Oui* | *Oui* | Partial | Open source. Version native de Pidgin pour Mac, mais ne met pas libpurple à jour souvent. Fuite d'informations au survole des DNS et des URL. |
+| [[Dino -> https://dino.im]] | GNU/Linux, Windows, FreeBSD | Non | *Oui* | Non | Non | *Oui* | Non | Open source, moderne et bien intégré au bureau GNOME. Développement rapide. |
 | [[Jitsi -> https://jitsi.org]] | GNU/Linux, Windows, macOS | *Oui* | Non | *Oui* | ? | ? | ? | Open source. Écrit en Java. |
 | [[Miranda -> https://miranda-im.org]] | Windows | *Oui* | Non | Non | ? | ? | ? | Open source. Client stable avec beaucoup de plugin. |
 | [[Miranda NG -> https://miranda-ng.org]] | Windows | *Oui* | Non | Non | ? | ? | ? | Open source. Client stable avec beaucoup de plugin. |
